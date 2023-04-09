@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CellHolder_THT")(type "KiCad")(uri "${KIPRJMOD}/External Libraries/CellHolder_THT.pretty")(options "")(descr ""))
+  (lib (name "ATTINY85-20PU")(type "KiCad")(uri "${KIPRJMOD}/External Libraries/Snap EDA Library/ATTINY85-20PU")(options "")(descr ""))
+)
