@@ -4,6 +4,7 @@ This repo is a collection of project files to a series of KiCad 7 tutorial, Whic
  ## Video Resource
   
  * Kicad Development Series As Playlist : https://www.youtube.com/playlist?list=PLn6004q9oeqGl91KifK6xHGuqvXGb374G
+ * Kicad Development Series As Articles : https://pcbcupid.com/posts/category/tutorial/
  * Kicad Development Series As Compiled Version : https://www.youtube.com/watch?v=KgmsvopC9Qk
  * Project Prototype Video : https://www.youtube.com/shorts/tJBAuqj2w3I
 
